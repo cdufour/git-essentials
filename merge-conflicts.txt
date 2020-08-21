@@ -1,5 +1,5 @@
 Line 1 from github 
 Line 2 from github 
-Line three from local 
+Line 3 from github 
 Line 4 from github
 Line 5 from github
